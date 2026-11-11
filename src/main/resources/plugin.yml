@@ -1,0 +1,5 @@
+name: KeepLocation
+version: 1.0.0
+main: net.keeplocation.KeepLocationPlugin
+api-version: '1.21'
+description: Returns players to where they logged out instead of spawn
