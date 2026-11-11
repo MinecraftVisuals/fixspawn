@@ -1,0 +1,6 @@
+# Turn the whole plugin on or off.
+enabled: true
+
+# How long after joining to send the player back to their logout spot.
+# If players still end up at spawn, raise this (try 10 or 20).
+delay-ticks: 5
